@@ -39,9 +39,7 @@ Keep the choir's seat-granting enrollment URL in Joe's original email rather tha
 Do not commit raw email exports or recipient headers.
 
 ## Analytics
-The head contains a guarded Microsoft Clarity loader with an empty project ID.
-It sends no requests until the new project ID is supplied. Replace the empty final argument with that ID.
-Never reuse the spring project ID.
+The head uses Microsoft Clarity project x5i9ovvwwa, shared with the spring site at Deb’s explicit request on October 17. Filter by page URL to distinguish fall traffic. Preserve this ID unless Deb requests a change.
 
 ## Publishing
 Deb has requested creation and initial publication of this repository.
@@ -54,3 +52,6 @@ Reviewed all 13 messages from Joe in the Bloomsburg Singers label since August 1
 
 ## Deb’s portal updates — October 17
 Identify this site prominently as a Singer Portal. All site-authored dates include weekday and three-letter month with periods (e.g., Sun., Nov. 22); preserve dates in original email bodies. Full choir rehearses every Monday until the concert, 7:00–8:45 PM at Wesley UMC. October 19 is titled Rehearsal with sectionals in its note. Chamber choir meets October 19 at 6:30 PM; subsequent regular rehearsals follow full choir at 8:45 PM. Bold the October 19 chamber-choir checklist reminder.
+
+## Palette update — October 17
+Deb requested replacing the brown with a color that complements rust and pale yellow. Header/nav/banner now use muted olive green; preserve rust buttons and pale yellow highlights.

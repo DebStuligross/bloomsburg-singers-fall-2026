@@ -1,12 +1,12 @@
 :root {
-    --navy:      #594b3e;
-    --navy-dark: #40382f;
+    --navy:      #4e6248;
+    --navy-dark: #384b35;
     --red:       #8d5039;
     --red-dark:  #70402f;
     --sky:       #f6f2eb;
     --white:     #FFFFFF;
-    --text:      #342e28;
-    --muted:     #6f6458;
+    --text:      #29332a;
+    --muted:     #626b5e;
     --border:    #ddd3c4;
     --warn:      #c45000;
     --cut-bg:    #fff3cd;
