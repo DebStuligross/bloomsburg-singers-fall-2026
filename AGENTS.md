@@ -50,3 +50,7 @@ Future commits and pushes require Deb's instruction.
 
 ## October 17 email review
 Reviewed all 13 messages from Joe in the Bloomsburg Singers label since August 1, plus the October 13 update previously retrieved from Inbox. No formal concert title was found in those emails; Deb subsequently supplied the final title above. The Barber selection is The Coolin’, per September 16. Digest includes Joe’s bodies with reply chains omitted; September 29 sectional instructions quoted in the October 5 forward are included with their original date identified. Historical dates and registration instructions are annotated, not silently changed. December 19 afternoon caroling remains pending exact location/time.
+
+
+## Deb’s portal updates — October 17
+Identify this site prominently as a Singer Portal. All site-authored dates include weekday and three-letter month with periods (e.g., Sun., Nov. 22); preserve dates in original email bodies. Full choir rehearses every Monday until the concert, 7:00–8:45 PM at Wesley UMC. October 19 is titled Rehearsal with sectionals in its note. Chamber choir meets October 19 at 6:30 PM; subsequent regular rehearsals follow full choir at 8:45 PM. Bold the October 19 chamber-choir checklist reminder.
