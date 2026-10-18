@@ -25,7 +25,7 @@ Do not carry spring-specific attire, contacts, repertoire, opportunities, or log
 
 ## Weekly updates
 1. Read Joe's newest "This Week in Bloomsburg Singers" email.
-2. Add dated .focus-note callouts within the relevant repertoire item. Replace obsolete notes or stack useful dated notes newest first. Use .praise only for pure compliments.
+2. Show only notes that focus singers on the upcoming rehearsal within the relevant repertoire item. Replace prior rehearsal instructions rather than stacking historical notes. Label the upcoming rehearsal date. Keep earlier notes solely in the original email digest; retain enduring reference links and concert details. Do not invent piece-specific assignments when none were provided.
 3. Add the full email body as a new details block at the top of #emails, newest first. Preserve original wording; omit headers and private data. Clearly disclose redactions. Never silently rewrite historical email text.
 4. Advance the .call-time pill to the next confirmed activity.
 5. Drop past activities, add newly confirmed ones, and update #checklist and logistics.
@@ -58,3 +58,6 @@ Deb requested replacing the brown with a color that complements rust and pale ye
 
 ## Folder photograph — October 18
 Deb supplied singer-folders.jpg, a photograph of the group's music folders. Display it as a small accent beside the rehearsal-hub text, not behind text. Keep the compact mobile header and readable solid text backgrounds.
+
+## Upcoming rehearsal focus — October 18
+At Joe’s request via Deb, repertoire callouts contain only the upcoming rehearsal’s assignments. Removed older sectional instructions, reflections, style and diction notes from repertoire; the email digest preserves them unchanged. Current focus for Mon., Oct. 19: Magnificat movement 2; Te Deum movement 5, m. 425.
