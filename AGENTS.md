@@ -7,7 +7,7 @@ Hosting: GitHub Pages from main, repository root; this must be enabled in reposi
 ## Confirmed concert details
 Sunday, November 22, 2026, 3:00 PM, First Presbyterian Church, Bloomsburg. Singer call 2:00 PM.
 Source: Joe's October 13 email. November 22 is Sunday, despite Saturday in the initial request.
-Deb supplied the final title: "Set Me as a Seal: Songs of Love, Pilgrimage, and Praise". Use subtle autumn colors, no icons or graphics.
+Deb supplied the final title: "Set Me as a Seal: Songs of Love, Pilgrimage, and Praise". Use subtle autumn colors and no decorative icons. Deb subsequently authorized the supplied music-folder photograph as a subtle accent.
 October 19 is inferred from "next week" in the October 13 email and the established Monday schedule.
 Regular rehearsal hours and Choir Room are from the August 16 welcome email.
 Do not carry spring-specific attire, contacts, repertoire, opportunities, or logistics into this site without confirmation.
@@ -55,3 +55,6 @@ Identify this site prominently as a Singer Portal. All site-authored dates inclu
 
 ## Palette update — October 17
 Deb requested replacing the brown with a color that complements rust and pale yellow. Header/nav/banner now use muted olive green; preserve rust buttons and pale yellow highlights.
+
+## Folder photograph — October 18
+Deb supplied singer-folders.jpg, a photograph of the group's music folders. Display it as a small accent beside the rehearsal-hub text, not behind text. Keep the compact mobile header and readable solid text backgrounds.
