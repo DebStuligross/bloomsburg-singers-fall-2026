@@ -61,3 +61,6 @@ Deb supplied singer-folders.jpg, a photograph of the group's music folders. Disp
 
 ## Upcoming rehearsal focus — October 18
 At Joe’s request via Deb, repertoire callouts contain only the upcoming rehearsal’s assignments. Removed older sectional instructions, reflections, style and diction notes from repertoire; the email digest preserves them unchanged. Current focus for Mon., Oct. 19: Magnificat movement 2; Te Deum movement 5, m. 425.
+
+## Fletcher access instructions — October 18
+The repertoire resources explain individual account creation/login (no paid plan), then direct singers to section 5(c)(ii) of Joe’s October 13 email to join the group; October 6 also contains the link. After joining, use the piece-specific Part tracks links and select a voice part. Keep the enrollment URL in the original email, not on the public page.
