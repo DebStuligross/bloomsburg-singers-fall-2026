@@ -828,6 +828,10 @@ section h2::before {
   font-size: .88rem;
   line-height: 1;
 }
+.checklist-next::before {
+  content: none !important;
+  display: none !important;
+}
 .checklist-next {
   display: grid;
   grid-template-columns: 2.35rem minmax(0, 1fr);
