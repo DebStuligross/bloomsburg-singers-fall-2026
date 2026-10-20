@@ -775,3 +775,104 @@ details[open] > summary::before { content: "−"; transform: none; }
   .folder-banner p { font-size: .8rem; line-height: 1.4; }
   .folder-banner .invite-lead { font-size: .85rem; letter-spacing: .05em; }
 }
+
+
+/* Visual wayfinding for a lighter, more scannable participant portal. */
+section h2 {
+  display: flex;
+  align-items: center;
+  gap: .55rem;
+}
+section h2::before {
+  display: inline-grid;
+  place-items: center;
+  width: 1.55rem;
+  height: 1.55rem;
+  flex: 0 0 1.55rem;
+  border-radius: 50%;
+  background: #e8eee1;
+  color: var(--navy);
+  font-family: 'Segoe UI Symbol', 'Apple Symbols', 'Noto Sans Symbols', sans-serif;
+  font-size: .92rem;
+  line-height: 1;
+}
+#checklist h2::before { content: "✓"; background: #f0dfd2; color: var(--red-dark); }
+#upcoming h2::before { content: "◷"; }
+#repertoire h2::before { content: "♫"; }
+#logistics h2::before { content: "⌂"; }
+#opportunities h2::before { content: "✦"; background: #f0dfd2; color: var(--red-dark); }
+#concert-dress h2::before { content: "◎"; }
+#tuition h2::before { content: "$"; background: #f0dfd2; color: var(--red-dark); font-family: inherit; font-weight: 700; }
+#emails h2::before { content: "✉"; }
+
+.checklist {
+  gap: .65rem;
+}
+.checklist li:not(.checklist-next) {
+  display: grid;
+  grid-template-columns: 1.8rem minmax(0, 1fr);
+  gap: .7rem;
+  align-items: start;
+}
+.checklist li:not(.checklist-next)::before {
+  content: attr(data-icon);
+  display: grid;
+  place-items: center;
+  width: 1.65rem;
+  height: 1.65rem;
+  margin-top: .08rem;
+  border-radius: 50%;
+  background: #f0dfd2;
+  color: var(--red-dark);
+  font-family: 'Segoe UI Symbol', 'Apple Symbols', 'Noto Sans Symbols', sans-serif;
+  font-size: .88rem;
+  line-height: 1;
+}
+.checklist-next {
+  display: grid;
+  grid-template-columns: 2.35rem minmax(0, 1fr);
+  gap: .8rem;
+  align-items: start;
+  padding: .85rem .95rem;
+  border: 1px solid #e4cfbf;
+  border-left: 4px solid var(--red);
+  border-radius: 0 .55rem .55rem 0;
+  background: linear-gradient(105deg, #fff8ef, #f7eee2);
+}
+.checklist-icon {
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--red);
+  color: var(--white);
+  font-family: 'Segoe UI Symbol', 'Apple Symbols', 'Noto Sans Symbols', sans-serif;
+  font-size: 1.05rem;
+  line-height: 1;
+}
+.checklist-copy { min-width: 0; }
+.checklist-kicker {
+  margin-bottom: .15rem;
+  color: var(--red-dark);
+  font-size: .73rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.checklist-copy > p:not(.checklist-kicker) { margin: 0; }
+.checklist-practice {
+  margin-top: .4rem !important;
+  padding-top: .4rem;
+  border-top: 1px solid #e4cfbf;
+  color: var(--muted);
+  font-size: .9rem;
+}
+
+@media (max-width: 580px) {
+  section h2::before { width: 1.4rem; height: 1.4rem; flex-basis: 1.4rem; font-size: .82rem; }
+  .checklist-next { grid-template-columns: 2rem minmax(0, 1fr); gap: .65rem; padding: .75rem; }
+  .checklist-icon { width: 1.75rem; height: 1.75rem; font-size: .95rem; }
+  .checklist li:not(.checklist-next) { grid-template-columns: 1.65rem minmax(0, 1fr); gap: .55rem; }
+  .checklist li:not(.checklist-next)::before { width: 1.5rem; height: 1.5rem; }
+}
