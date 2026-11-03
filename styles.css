@@ -855,6 +855,26 @@ section h2::before {
   font-size: 1.05rem;
   line-height: 1;
 }
+
+/* Rehearsal focus bullets inside the highlighted checklist item */
+.checklist .focus-points {
+    list-style: disc;
+    margin: .6rem 0 .7rem 1.3rem;
+    padding: 0;
+}
+.checklist .focus-points > li {
+    display: list-item;
+    list-style: disc;
+    margin: .32rem 0;
+    padding-left: .12rem;
+    line-height: 1.45;
+    font-size: .93rem;
+}
+.checklist .focus-points > li::before {
+    content: none !important;
+    display: none !important;
+}
+
 .checklist-copy { min-width: 0; }
 .checklist-kicker {
   margin-bottom: .15rem;
