@@ -255,6 +255,46 @@ section h2 {
 .weekend-event .weekend-purpose { border-bottom:1px solid var(--border); padding-bottom:.55rem; color:var(--navy-dark); }
 @media (max-width:760px) { .weekend-schedule { grid-template-columns:1fr; } }
 
+/* Post-concert video and reflections */
+.recording-feature { border-top: 4px solid var(--red); }
+.recording-panel {
+    margin-top: .9rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.2rem 1.4rem;
+    background: #f7f3eb;
+    text-align: center;
+}
+.recording-panel p { margin-bottom: .3rem; }
+.recording-panel p:last-child { margin-bottom: 0; }
+.recording-label {
+    font-size: .76rem;
+    font-weight: 800;
+    color: var(--red-dark);
+    text-transform: uppercase;
+    letter-spacing: .075em;
+}
+.celebration-cards .weekend-event { border-top-color: var(--navy); }
+.celebration-cards .weekend-saturday { border-top-color: var(--red); }
+.celebration-cards .weekend-sunday { border-top-color: var(--red-dark); }
+.moment-title {
+    color: var(--red-dark);
+    font-size: 1.42rem;
+    line-height: 1.2;
+    margin: .25rem 0 .6rem;
+    overflow-wrap: anywhere;
+}
+.concert-gratitude {
+    margin-top: 1rem;
+}
+.spring-note {
+    margin-top: .85rem;
+    padding: .8rem 1rem;
+    background: #f5f0e6;
+    border-left: 4px solid var(--red);
+    border-radius: 0 6px 6px 0;
+}
+
 /* ── Upcoming Activities ── */
 .activities-table {
     width: 100%;
